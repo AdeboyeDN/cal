@@ -393,7 +393,7 @@ You can deploy Cal.com on [Railway](https://railway.app) using the button above.
 
 ### Northflank
 
-[![Deploy on Northflank](https://assets.northflank.com/buttons/deploy-to-northflank.svg)](https://northflank.com/stacks/deploy-calcom)
+[![Deploy on Northflank](https://assets.northflank.com/deploy_to_northflank_smm_36700fb050.svg)](https://northflank.com/stacks/deploy-calcom)
 
 You can deploy Cal.com on [Northflank](https://northflank.com) using the button above. The team at Northflank also have a [detailed blog post](https://northflank.com/guides/deploy-calcom-with-northflank) on deploying Cal.com on their platform.
 
